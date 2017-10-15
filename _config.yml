@@ -15,11 +15,11 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Zhenke Wu, PhD
-tagline: Research updates on Bayesian modelling, causal models and individualized health from Johns Hopkins Biostatistics
+title : 谢绍东教授课题组
+tagline: 
 url: http://zhenkewu.com
-name : Zhenke Wu, PhD
-description: Research updates on Bayesian modelling, causal models and individualized health from Johns Hopkins Biostatistics
+name : 欢迎访问谢绍东教授课题组
+description: 
 
 
 institution:
